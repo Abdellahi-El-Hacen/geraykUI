@@ -21,6 +21,15 @@ class TeachersPage extends StatelessWidget {
       "subject": "الفرنسية",
       "cv": "أستاذة لغة فرنسية للمرحلة الثانوية...",
     },
+ {
+      "name": "pr.sidi mohamed ghazwani",
+      "phone": "32323322",
+      "image": "assets/teacher2.png",
+      "subject":" لرياضيات",
+      "cv": "أستاذة لغة فرنسية للمرحلة الثانوية...",
+    },
+
+    
   ];
 
   @override
